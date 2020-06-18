@@ -21,7 +21,7 @@ This is a block of code
 
 Here is how we make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yuhui/xaringan/releases/download/v0.0.2/kerl-moustanche.jpg)
+![This is an image.](https://github.com/)
 
 
 
